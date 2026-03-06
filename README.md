@@ -1,0 +1,2 @@
+# sprint10-final-proyecto-9-Andes-Retail-Group-An-lisis-de-Ventas-2024-2025
+Este proyecto presenta un análisis exploratorio de ventas y rentabilidad para Andes Retail Group utilizando Power BI. El objetivo principal es identificar patrones en el comportamiento del negocio, evaluar el desempeño por segmentos de clientes, categorías de productos y mercados geográficos, y detectar oportunidades de mejora en ingresos y margen.
